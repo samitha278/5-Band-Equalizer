@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Free Documents]
+   Generated File[Indicator.TXT]
+   Generated File[Indicator.LDP]
+   Generated File[Indicator.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:49:13 PM On 11/14/2024

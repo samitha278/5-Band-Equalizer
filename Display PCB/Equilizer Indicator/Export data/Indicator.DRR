@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Indicator.PcbDoc   11/14/2024  9:49:13 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Indicator.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      28mil (0.711mm)                                           Round             10        PTH        5.94inch (150.82mm)
+T2      30mil (0.749mm)                                           Round             3         PTH        0.28inch (7.18mm)
+T3      32mil (0.8mm)                                             Round             3         PTH        0.10inch (2.54mm)
+T4      34mil (0.851mm)                                           Round             88        PTH        25.43inch (645.80mm)
+T5      35mil (0.899mm)                                           Round             228       PTH        32.89inch (835.36mm)
+T6      43mil (1.1mm)                                             Round             3         PTH        0.20inch (5.08mm)
+T7      47mil (1.191mm)                                           Round             10        PTH        0.90inch (22.86mm)
+T8      65mil (1.651mm)                                           Round             12        PTH        1.73inch (44.06mm)
+T9      118mil (3mm)                                              Round             4         PTH        11.30inch (286.89mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              361
+
+Total Processing Time (hh:mm:ss) : 00:00:00
